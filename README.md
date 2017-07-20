@@ -1,3 +1,5 @@
+**Note:** If you are looking for a Python interface to the CATMAID API, please visit https://github.com/catmaid/catpy
+
 # cat
 Connectome Analysis Toolbox
 
